@@ -1,0 +1,7 @@
+React is a javascript library for building user interfaces.
+Pakage.json holds all information about project , in short meta data.
+The render() simply means to show or display.
+Node modules - it is the repository for modules/library which we use inside our project . When we do npm install that time module or library installs inside node modules folder and one entry added in package.json file.
+.gitignore - when we use git but we don't want to show it on our folder so we use gitignore.
+robots.txt- ( robots exclusion protocol ) , A robots.txt file tells search crawlers which pages or files crawler can or can't request from your site.
+manifest.json - provides theh information of application in json format.
