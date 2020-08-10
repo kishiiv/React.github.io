@@ -5,3 +5,27 @@ Node modules - it is the repository for modules/library which we use inside our 
 .gitignore - when we use git but we don't want to show it on our folder so we use gitignore.
 robots.txt- ( robots exclusion protocol ) , A robots.txt file tells search crawlers which pages or files crawler can or can't request from your site.
 manifest.json - provides theh information of application in json format.
+
+ Create a Simple Web App on Top 5 Netflix Series
+ ----------------------------------------------------------------->
+ import React from "react";
+import ReactDom from "react-dom";
+
+ReactDom.render(
+  <>
+  <h1>Hello World</h1>
+  <p>These are 5 Netflix series</p>
+  <ol>
+    <li>ABC</li>
+    <li>DEF</li>
+    <li>GHI</li>
+    <li>JKL</li>
+    <li>MNO</li>
+  </ol>
+  </>,
+  document.getElementById("root"));
+  
+  
+  Creating Simple Greeting Website using React JS 
+  ------------------------------------------------------------------>
+  
